@@ -1,0 +1,2354 @@
+{
+ "builder": "0x557edb253b1d7ed5f15b248a5a3fd919fa5d3c81",
+ "generated": "2026-09-28",
+ "note": "Aggregates from stats-data.hyperliquid.xyz builder_fills. Days flagged partial=true have incomplete published files (lower bound).",
+ "daily": {
+  "20251207": {
+   "volume_usd": 2063,
+   "builder_fee_usd": 1.65,
+   "unique_traders": 1,
+   "fills": 16,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20251208": {
+   "volume_usd": 2400,
+   "builder_fee_usd": 0.92,
+   "unique_traders": 4,
+   "fills": 21,
+   "closed_pnl_usd": 12,
+   "partial": false
+  },
+  "20251209": {
+   "volume_usd": 2300,
+   "builder_fee_usd": 0.8,
+   "unique_traders": 5,
+   "fills": 23,
+   "closed_pnl_usd": 8,
+   "partial": false
+  },
+  "20251210": {
+   "volume_usd": 2357,
+   "builder_fee_usd": 0.82,
+   "unique_traders": 4,
+   "fills": 26,
+   "closed_pnl_usd": 2,
+   "partial": false
+  },
+  "20251211": {
+   "volume_usd": 3840,
+   "builder_fee_usd": 1.34,
+   "unique_traders": 1,
+   "fills": 10,
+   "closed_pnl_usd": 4,
+   "partial": false
+  },
+  "20251212": {
+   "volume_usd": 1696,
+   "builder_fee_usd": 0.59,
+   "unique_traders": 2,
+   "fills": 6,
+   "closed_pnl_usd": 6,
+   "partial": false
+  },
+  "20251213": {
+   "volume_usd": 1839,
+   "builder_fee_usd": 0.64,
+   "unique_traders": 2,
+   "fills": 11,
+   "closed_pnl_usd": 5,
+   "partial": false
+  },
+  "20251214": {
+   "volume_usd": 2847,
+   "builder_fee_usd": 1.0,
+   "unique_traders": 4,
+   "fills": 6,
+   "closed_pnl_usd": -11,
+   "partial": false
+  },
+  "20251215": {
+   "volume_usd": 3100,
+   "builder_fee_usd": 1.08,
+   "unique_traders": 3,
+   "fills": 17,
+   "closed_pnl_usd": 25,
+   "partial": false
+  },
+  "20251216": {
+   "volume_usd": 1742,
+   "builder_fee_usd": 0.61,
+   "unique_traders": 2,
+   "fills": 25,
+   "closed_pnl_usd": 3,
+   "partial": false
+  },
+  "20251217": {
+   "volume_usd": 3478,
+   "builder_fee_usd": 1.22,
+   "unique_traders": 3,
+   "fills": 29,
+   "closed_pnl_usd": 4,
+   "partial": false
+  },
+  "20251218": {
+   "volume_usd": 4155,
+   "builder_fee_usd": 1.45,
+   "unique_traders": 2,
+   "fills": 17,
+   "closed_pnl_usd": -10,
+   "partial": false
+  },
+  "20251219": {
+   "volume_usd": 4127,
+   "builder_fee_usd": 1.44,
+   "unique_traders": 1,
+   "fills": 21,
+   "closed_pnl_usd": 35,
+   "partial": false
+  },
+  "20251222": {
+   "volume_usd": 2110,
+   "builder_fee_usd": 0.74,
+   "unique_traders": 2,
+   "fills": 11,
+   "closed_pnl_usd": -1,
+   "partial": false
+  },
+  "20251223": {
+   "volume_usd": 813,
+   "builder_fee_usd": 0.28,
+   "unique_traders": 1,
+   "fills": 3,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20251224": {
+   "volume_usd": 1375,
+   "builder_fee_usd": 0.48,
+   "unique_traders": 1,
+   "fills": 8,
+   "closed_pnl_usd": -2,
+   "partial": false
+  },
+  "20251225": {
+   "volume_usd": 990,
+   "builder_fee_usd": 0.35,
+   "unique_traders": 2,
+   "fills": 9,
+   "closed_pnl_usd": -2,
+   "partial": false
+  },
+  "20251227": {
+   "volume_usd": 66,
+   "builder_fee_usd": 0.02,
+   "unique_traders": 1,
+   "fills": 4,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20251229": {
+   "volume_usd": 1321,
+   "builder_fee_usd": 0.46,
+   "unique_traders": 2,
+   "fills": 21,
+   "closed_pnl_usd": 5,
+   "partial": false
+  },
+  "20251230": {
+   "volume_usd": 759,
+   "builder_fee_usd": 0.27,
+   "unique_traders": 3,
+   "fills": 9,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20251231": {
+   "volume_usd": 6995,
+   "builder_fee_usd": 2.45,
+   "unique_traders": 2,
+   "fills": 19,
+   "closed_pnl_usd": 14,
+   "partial": false
+  },
+  "20260101": {
+   "volume_usd": 4233,
+   "builder_fee_usd": 1.48,
+   "unique_traders": 3,
+   "fills": 24,
+   "closed_pnl_usd": 13,
+   "partial": false
+  },
+  "20260102": {
+   "volume_usd": 7714,
+   "builder_fee_usd": 2.7,
+   "unique_traders": 2,
+   "fills": 21,
+   "closed_pnl_usd": -12,
+   "partial": false
+  },
+  "20260103": {
+   "volume_usd": 549,
+   "builder_fee_usd": 0.19,
+   "unique_traders": 2,
+   "fills": 4,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20260104": {
+   "volume_usd": 4023,
+   "builder_fee_usd": 1.41,
+   "unique_traders": 4,
+   "fills": 23,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20260105": {
+   "volume_usd": 1718,
+   "builder_fee_usd": 0.6,
+   "unique_traders": 2,
+   "fills": 12,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20260106": {
+   "volume_usd": 710,
+   "builder_fee_usd": 0.25,
+   "unique_traders": 2,
+   "fills": 18,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20260107": {
+   "volume_usd": 724,
+   "builder_fee_usd": 0.25,
+   "unique_traders": 2,
+   "fills": 4,
+   "closed_pnl_usd": 6,
+   "partial": false
+  },
+  "20260108": {
+   "volume_usd": 905,
+   "builder_fee_usd": 0.32,
+   "unique_traders": 3,
+   "fills": 6,
+   "closed_pnl_usd": -2,
+   "partial": false
+  },
+  "20260109": {
+   "volume_usd": 275,
+   "builder_fee_usd": 0.1,
+   "unique_traders": 2,
+   "fills": 2,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20260110": {
+   "volume_usd": 907,
+   "builder_fee_usd": 0.32,
+   "unique_traders": 2,
+   "fills": 4,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20260111": {
+   "volume_usd": 156,
+   "builder_fee_usd": 0.05,
+   "unique_traders": 2,
+   "fills": 7,
+   "closed_pnl_usd": 2,
+   "partial": false
+  },
+  "20260112": {
+   "volume_usd": 4338,
+   "builder_fee_usd": 1.52,
+   "unique_traders": 3,
+   "fills": 25,
+   "closed_pnl_usd": 11,
+   "partial": false
+  },
+  "20260113": {
+   "volume_usd": 4295,
+   "builder_fee_usd": 1.5,
+   "unique_traders": 4,
+   "fills": 57,
+   "closed_pnl_usd": -2,
+   "partial": false
+  },
+  "20260114": {
+   "volume_usd": 2413,
+   "builder_fee_usd": 0.84,
+   "unique_traders": 4,
+   "fills": 59,
+   "closed_pnl_usd": 1,
+   "partial": false
+  },
+  "20260115": {
+   "volume_usd": 8055,
+   "builder_fee_usd": 2.82,
+   "unique_traders": 6,
+   "fills": 73,
+   "closed_pnl_usd": -6,
+   "partial": false
+  },
+  "20260116": {
+   "volume_usd": 3328,
+   "builder_fee_usd": 1.16,
+   "unique_traders": 5,
+   "fills": 58,
+   "closed_pnl_usd": 5,
+   "partial": false
+  },
+  "20260117": {
+   "volume_usd": 814,
+   "builder_fee_usd": 0.28,
+   "unique_traders": 3,
+   "fills": 33,
+   "closed_pnl_usd": 4,
+   "partial": false
+  },
+  "20260118": {
+   "volume_usd": 1147,
+   "builder_fee_usd": 0.4,
+   "unique_traders": 4,
+   "fills": 37,
+   "closed_pnl_usd": 6,
+   "partial": false
+  },
+  "20260119": {
+   "volume_usd": 628,
+   "builder_fee_usd": 0.22,
+   "unique_traders": 5,
+   "fills": 25,
+   "closed_pnl_usd": -5,
+   "partial": false
+  },
+  "20260120": {
+   "volume_usd": 1490,
+   "builder_fee_usd": 0.52,
+   "unique_traders": 3,
+   "fills": 28,
+   "closed_pnl_usd": 47,
+   "partial": false
+  },
+  "20260121": {
+   "volume_usd": 1985,
+   "builder_fee_usd": 0.69,
+   "unique_traders": 4,
+   "fills": 36,
+   "closed_pnl_usd": 2,
+   "partial": false
+  },
+  "20260122": {
+   "volume_usd": 3667,
+   "builder_fee_usd": 1.28,
+   "unique_traders": 4,
+   "fills": 46,
+   "closed_pnl_usd": 0,
+   "partial": false
+  },
+  "20260123": {
+   "volume_usd": 4764,
+   "builder_fee_usd": 1.67,
+   "unique_traders": 4,
+   "fills": 45,
+   "closed_pnl_usd": 16,
+   "partial": false
+  },
+  "20260124": {
+   "volume_usd": 2733,
+   "builder_fee_usd": 0.96,
+   "unique_traders": 2,
+   "fills": 33,
+   "closed_pnl_usd": 3,
+   "partial": false
+  },
+  "20260125": {
+   "volume_usd": 1254,
+   "builder_fee_usd": 0.44,
+   "unique_traders": 3,
+   "fills": 26,
+   "closed_pnl_usd": -6,
+   "partial": false
+  },
+  "20260126": {
+   "volume_usd": 830,
+   "builder_fee_usd": 0.29,
+   "unique_traders": 5,
+   "fills": 15,
+   "closed_pnl_usd": 6,
+   "partial": false
+  },
+  "20260127": {
+   "volume_usd": 2706,
+   "builder_fee_usd": 0.95,
+   "unique_traders": 7,
+   "fills": 105,
+   "closed_pnl_usd": -5,
+   "partial": false
+  },
+  "20260128": {
+   "volume_usd": 14090,
+   "builder_fee_usd": 4.93,
+   "unique_traders": 16,
+   "fills": 199,
+   "closed_pnl_usd": -5,
+   "partial": false
+  },
+  "20260129": {
+   "volume_usd": 48561,
+   "builder_fee_usd": 17.0,
+   "unique_traders": 17,
+   "fills": 189,
+   "closed_pnl_usd": 80,
+   "partial": false
+  },
+  "20260130": {
+   "volume_usd": 121063,
+   "builder_fee_usd": 42.37,
+   "unique_traders": 16,
+   "fills": 341,
+   "closed_pnl_usd": -22,
+   "partial": false
+  },
+  "20260131": {
+   "volume_usd": 54928,
+   "builder_fee_usd": 19.22,
+   "unique_traders": 16,
+   "fills": 173,
+   "closed_pnl_usd": 138,
+   "partial": false
+  },
+  "20260201": {
+   "volume_usd": 87384,
+   "builder_fee_usd": 30.58,
+   "unique_traders": 19,
+   "fills": 268,
+   "closed_pnl_usd": 118,
+   "partial": false
+  },
+  "20260202": {
+   "volume_usd": 35302,
+   "builder_fee_usd": 12.36,
+   "unique_traders": 17,
+   "fills": 164,
+   "closed_pnl_usd": 154,
+   "partial": false
+  },
+  "20260203": {
+   "volume_usd": 142712,
+   "builder_fee_usd": 49.95,
+   "unique_traders": 17,
+   "fills": 334,
+   "closed_pnl_usd": -19,
+   "partial": false
+  },
+  "20260204": {
+   "volume_usd": 29373,
+   "builder_fee_usd": 10.28,
+   "unique_traders": 20,
+   "fills": 112,
+   "closed_pnl_usd": -211,
+   "partial": false
+  },
+  "20260205": {
+   "volume_usd": 192323,
+   "builder_fee_usd": 67.31,
+   "unique_traders": 21,
+   "fills": 205,
+   "closed_pnl_usd": -392,
+   "partial": false
+  },
+  "20260206": {
+   "volume_usd": 451041,
+   "builder_fee_usd": 157.86,
+   "unique_traders": 15,
+   "fills": 291,
+   "closed_pnl_usd": 1478,
+   "partial": false
+  },
+  "20260207": {
+   "volume_usd": 336602,
+   "builder_fee_usd": 117.81,
+   "unique_traders": 18,
+   "fills": 228,
+   "closed_pnl_usd": 1072,
+   "partial": false
+  },
+  "20260208": {
+   "volume_usd": 376809,
+   "builder_fee_usd": 131.88,
+   "unique_traders": 25,
+   "fills": 355,
+   "closed_pnl_usd": 411,
+   "partial": false
+  },
+  "20260209": {
+   "volume_usd": 374709,
+   "builder_fee_usd": 131.15,
+   "unique_traders": 20,
+   "fills": 360,
+   "closed_pnl_usd": 317,
+   "partial": false
+  },
+  "20260210": {
+   "volume_usd": 509015,
+   "builder_fee_usd": 178.15,
+   "unique_traders": 23,
+   "fills": 548,
+   "closed_pnl_usd": -429,
+   "partial": false
+  },
+  "20260211": {
+   "volume_usd": 150110,
+   "builder_fee_usd": 52.54,
+   "unique_traders": 32,
+   "fills": 658,
+   "closed_pnl_usd": -238,
+   "partial": false
+  },
+  "20260212": {
+   "volume_usd": 85812,
+   "builder_fee_usd": 30.03,
+   "unique_traders": 36,
+   "fills": 473,
+   "closed_pnl_usd": 158,
+   "partial": false
+  },
+  "20260213": {
+   "volume_usd": 161404,
+   "builder_fee_usd": 56.49,
+   "unique_traders": 33,
+   "fills": 495,
+   "closed_pnl_usd": -28,
+   "partial": false
+  },
+  "20260214": {
+   "volume_usd": 31058,
+   "builder_fee_usd": 10.87,
+   "unique_traders": 28,
+   "fills": 279,
+   "closed_pnl_usd": -46,
+   "partial": false
+  },
+  "20260215": {
+   "volume_usd": 44563,
+   "builder_fee_usd": 15.6,
+   "unique_traders": 28,
+   "fills": 289,
+   "closed_pnl_usd": 131,
+   "partial": false
+  },
+  "20260216": {
+   "volume_usd": 33444,
+   "builder_fee_usd": 11.71,
+   "unique_traders": 28,
+   "fills": 417,
+   "closed_pnl_usd": 39,
+   "partial": false
+  },
+  "20260217": {
+   "volume_usd": 120678,
+   "builder_fee_usd": 42.24,
+   "unique_traders": 39,
+   "fills": 688,
+   "closed_pnl_usd": 249,
+   "partial": false
+  },
+  "20260218": {
+   "volume_usd": 172812,
+   "builder_fee_usd": 60.48,
+   "unique_traders": 46,
+   "fills": 826,
+   "closed_pnl_usd": 149,
+   "partial": false
+  },
+  "20260219": {
+   "volume_usd": 259436,
+   "builder_fee_usd": 90.8,
+   "unique_traders": 51,
+   "fills": 945,
+   "closed_pnl_usd": 88,
+   "partial": false
+  },
+  "20260220": {
+   "volume_usd": 299058,
+   "builder_fee_usd": 104.67,
+   "unique_traders": 57,
+   "fills": 1266,
+   "closed_pnl_usd": 204,
+   "partial": false
+  },
+  "20260221": {
+   "volume_usd": 577918,
+   "builder_fee_usd": 202.27,
+   "unique_traders": 58,
+   "fills": 993,
+   "closed_pnl_usd": -573,
+   "partial": false
+  },
+  "20260222": {
+   "volume_usd": 190647,
+   "builder_fee_usd": 66.73,
+   "unique_traders": 54,
+   "fills": 772,
+   "closed_pnl_usd": 391,
+   "partial": false
+  },
+  "20260223": {
+   "volume_usd": 285962,
+   "builder_fee_usd": 100.09,
+   "unique_traders": 59,
+   "fills": 1605,
+   "closed_pnl_usd": 547,
+   "partial": false
+  },
+  "20260224": {
+   "volume_usd": 182640,
+   "builder_fee_usd": 63.92,
+   "unique_traders": 55,
+   "fills": 962,
+   "closed_pnl_usd": 360,
+   "partial": false
+  },
+  "20260225": {
+   "volume_usd": 237314,
+   "builder_fee_usd": 83.06,
+   "unique_traders": 63,
+   "fills": 1209,
+   "closed_pnl_usd": 546,
+   "partial": false
+  },
+  "20260226": {
+   "volume_usd": 79963,
+   "builder_fee_usd": 27.99,
+   "unique_traders": 60,
+   "fills": 758,
+   "closed_pnl_usd": 65,
+   "partial": false
+  },
+  "20260227": {
+   "volume_usd": 295939,
+   "builder_fee_usd": 103.58,
+   "unique_traders": 55,
+   "fills": 829,
+   "closed_pnl_usd": 504,
+   "partial": false
+  },
+  "20260228": {
+   "volume_usd": 367523,
+   "builder_fee_usd": 128.63,
+   "unique_traders": 58,
+   "fills": 1080,
+   "closed_pnl_usd": 818,
+   "partial": false
+  },
+  "20260301": {
+   "volume_usd": 229507,
+   "builder_fee_usd": 80.33,
+   "unique_traders": 54,
+   "fills": 555,
+   "closed_pnl_usd": 76,
+   "partial": false
+  },
+  "20260302": {
+   "volume_usd": 300605,
+   "builder_fee_usd": 105.21,
+   "unique_traders": 61,
+   "fills": 809,
+   "closed_pnl_usd": 1457,
+   "partial": false
+  },
+  "20260303": {
+   "volume_usd": 631791,
+   "builder_fee_usd": 221.13,
+   "unique_traders": 59,
+   "fills": 1306,
+   "closed_pnl_usd": 1733,
+   "partial": false
+  },
+  "20260304": {
+   "volume_usd": 1229111,
+   "builder_fee_usd": 430.19,
+   "unique_traders": 51,
+   "fills": 1229,
+   "closed_pnl_usd": 842,
+   "partial": false
+  },
+  "20260305": {
+   "volume_usd": 333703,
+   "builder_fee_usd": 116.8,
+   "unique_traders": 46,
+   "fills": 591,
+   "closed_pnl_usd": 1168,
+   "partial": false
+  },
+  "20260306": {
+   "volume_usd": 240561,
+   "builder_fee_usd": 84.2,
+   "unique_traders": 53,
+   "fills": 669,
+   "closed_pnl_usd": 1057,
+   "partial": false
+  },
+  "20260307": {
+   "volume_usd": 86359,
+   "builder_fee_usd": 30.23,
+   "unique_traders": 50,
+   "fills": 418,
+   "closed_pnl_usd": 195,
+   "partial": false
+  },
+  "20260308": {
+   "volume_usd": 629633,
+   "builder_fee_usd": 220.37,
+   "unique_traders": 56,
+   "fills": 868,
+   "closed_pnl_usd": 1793,
+   "partial": false
+  },
+  "20260309": {
+   "volume_usd": 585845,
+   "builder_fee_usd": 205.04,
+   "unique_traders": 164,
+   "fills": 2293,
+   "closed_pnl_usd": 68,
+   "partial": false
+  },
+  "20260310": {
+   "volume_usd": 1714907,
+   "builder_fee_usd": 600.22,
+   "unique_traders": 167,
+   "fills": 2492,
+   "closed_pnl_usd": 2734,
+   "partial": false
+  },
+  "20260311": {
+   "volume_usd": 1272991,
+   "builder_fee_usd": 445.55,
+   "unique_traders": 176,
+   "fills": 2509,
+   "closed_pnl_usd": -1037,
+   "partial": false
+  },
+  "20260312": {
+   "volume_usd": 951812,
+   "builder_fee_usd": 333.13,
+   "unique_traders": 166,
+   "fills": 2408,
+   "closed_pnl_usd": 1884,
+   "partial": false
+  },
+  "20260313": {
+   "volume_usd": 1156693,
+   "builder_fee_usd": 404.84,
+   "unique_traders": 183,
+   "fills": 2893,
+   "closed_pnl_usd": -926,
+   "partial": false
+  },
+  "20260314": {
+   "volume_usd": 541762,
+   "builder_fee_usd": 189.62,
+   "unique_traders": 170,
+   "fills": 1782,
+   "closed_pnl_usd": -194,
+   "partial": false
+  },
+  "20260315": {
+   "volume_usd": 613413,
+   "builder_fee_usd": 214.69,
+   "unique_traders": 176,
+   "fills": 2136,
+   "closed_pnl_usd": 597,
+   "partial": false
+  },
+  "20260316": {
+   "volume_usd": 1798456,
+   "builder_fee_usd": 629.46,
+   "unique_traders": 188,
+   "fills": 3121,
+   "closed_pnl_usd": -482,
+   "partial": false
+  },
+  "20260317": {
+   "volume_usd": 1413546,
+   "builder_fee_usd": 494.74,
+   "unique_traders": 171,
+   "fills": 2638,
+   "closed_pnl_usd": 808,
+   "partial": false
+  },
+  "20260318": {
+   "volume_usd": 1192565,
+   "builder_fee_usd": 417.4,
+   "unique_traders": 181,
+   "fills": 2283,
+   "closed_pnl_usd": 3106,
+   "partial": false
+  },
+  "20260319": {
+   "volume_usd": 890125,
+   "builder_fee_usd": 311.54,
+   "unique_traders": 172,
+   "fills": 1888,
+   "closed_pnl_usd": 768,
+   "partial": false
+  },
+  "20260320": {
+   "volume_usd": 858461,
+   "builder_fee_usd": 300.46,
+   "unique_traders": 172,
+   "fills": 1979,
+   "closed_pnl_usd": 416,
+   "partial": false
+  },
+  "20260321": {
+   "volume_usd": 493919,
+   "builder_fee_usd": 172.87,
+   "unique_traders": 162,
+   "fills": 1471,
+   "closed_pnl_usd": 349,
+   "partial": false
+  },
+  "20260322": {
+   "volume_usd": 616041,
+   "builder_fee_usd": 215.61,
+   "unique_traders": 175,
+   "fills": 1774,
+   "closed_pnl_usd": 624,
+   "partial": false
+  },
+  "20260323": {
+   "volume_usd": 1144349,
+   "builder_fee_usd": 400.52,
+   "unique_traders": 198,
+   "fills": 3448,
+   "closed_pnl_usd": 1898,
+   "partial": false
+  },
+  "20260324": {
+   "volume_usd": 833167,
+   "builder_fee_usd": 291.61,
+   "unique_traders": 190,
+   "fills": 2249,
+   "closed_pnl_usd": -500,
+   "partial": false
+  },
+  "20260325": {
+   "volume_usd": 1145382,
+   "builder_fee_usd": 400.88,
+   "unique_traders": 191,
+   "fills": 2504,
+   "closed_pnl_usd": 1507,
+   "partial": false
+  },
+  "20260326": {
+   "volume_usd": 883163,
+   "builder_fee_usd": 309.11,
+   "unique_traders": 183,
+   "fills": 2338,
+   "closed_pnl_usd": 828,
+   "partial": false
+  },
+  "20260327": {
+   "volume_usd": 843837,
+   "builder_fee_usd": 295.34,
+   "unique_traders": 171,
+   "fills": 1775,
+   "closed_pnl_usd": -538,
+   "partial": false
+  },
+  "20260328": {
+   "volume_usd": 688084,
+   "builder_fee_usd": 240.83,
+   "unique_traders": 150,
+   "fills": 1713,
+   "closed_pnl_usd": 553,
+   "partial": false
+  },
+  "20260329": {
+   "volume_usd": 730235,
+   "builder_fee_usd": 255.58,
+   "unique_traders": 168,
+   "fills": 1777,
+   "closed_pnl_usd": -17,
+   "partial": false
+  },
+  "20260330": {
+   "volume_usd": 1615625,
+   "builder_fee_usd": 565.47,
+   "unique_traders": 268,
+   "fills": 4699,
+   "closed_pnl_usd": 2691,
+   "partial": false
+  },
+  "20260331": {
+   "volume_usd": 2459217,
+   "builder_fee_usd": 860.72,
+   "unique_traders": 349,
+   "fills": 7339,
+   "closed_pnl_usd": 2207,
+   "partial": false
+  },
+  "20260401": {
+   "volume_usd": 2041268,
+   "builder_fee_usd": 714.44,
+   "unique_traders": 343,
+   "fills": 6024,
+   "closed_pnl_usd": 3493,
+   "partial": false
+  },
+  "20260402": {
+   "volume_usd": 2210432,
+   "builder_fee_usd": 773.65,
+   "unique_traders": 394,
+   "fills": 7423,
+   "closed_pnl_usd": 5019,
+   "partial": false
+  },
+  "20260403": {
+   "volume_usd": 1818897,
+   "builder_fee_usd": 636.61,
+   "unique_traders": 363,
+   "fills": 5478,
+   "closed_pnl_usd": -129,
+   "partial": false
+  },
+  "20260404": {
+   "volume_usd": 1809792,
+   "builder_fee_usd": 633.43,
+   "unique_traders": 347,
+   "fills": 4156,
+   "closed_pnl_usd": 845,
+   "partial": false
+  },
+  "20260405": {
+   "volume_usd": 2899250,
+   "builder_fee_usd": 1014.73,
+   "unique_traders": 387,
+   "fills": 5326,
+   "closed_pnl_usd": 869,
+   "partial": false
+  },
+  "20260406": {
+   "volume_usd": 3153026,
+   "builder_fee_usd": 1103.56,
+   "unique_traders": 433,
+   "fills": 6804,
+   "closed_pnl_usd": 2510,
+   "partial": false
+  },
+  "20260407": {
+   "volume_usd": 4148644,
+   "builder_fee_usd": 1452.02,
+   "unique_traders": 437,
+   "fills": 8266,
+   "closed_pnl_usd": 8300,
+   "partial": false
+  },
+  "20260408": {
+   "volume_usd": 5794913,
+   "builder_fee_usd": 2028.22,
+   "unique_traders": 443,
+   "fills": 8420,
+   "closed_pnl_usd": 12026,
+   "partial": false
+  },
+  "20260409": {
+   "volume_usd": 6194829,
+   "builder_fee_usd": 2168.18,
+   "unique_traders": 485,
+   "fills": 11829,
+   "closed_pnl_usd": 8542,
+   "partial": false
+  },
+  "20260410": {
+   "volume_usd": 3256600,
+   "builder_fee_usd": 1139.81,
+   "unique_traders": 472,
+   "fills": 8929,
+   "closed_pnl_usd": 3319,
+   "partial": false
+  },
+  "20260411": {
+   "volume_usd": 2605478,
+   "builder_fee_usd": 911.91,
+   "unique_traders": 399,
+   "fills": 6211,
+   "closed_pnl_usd": 1082,
+   "partial": false
+  },
+  "20260412": {
+   "volume_usd": 4130918,
+   "builder_fee_usd": 1445.82,
+   "unique_traders": 508,
+   "fills": 6874,
+   "closed_pnl_usd": 6636,
+   "partial": false
+  },
+  "20260413": {
+   "volume_usd": 10610943,
+   "builder_fee_usd": 3713.82,
+   "unique_traders": 914,
+   "fills": 16062,
+   "closed_pnl_usd": -818,
+   "partial": false
+  },
+  "20260414": {
+   "volume_usd": 10655011,
+   "builder_fee_usd": 3729.24,
+   "unique_traders": 1192,
+   "fills": 18392,
+   "closed_pnl_usd": 698,
+   "partial": false
+  },
+  "20260415": {
+   "volume_usd": 7109042,
+   "builder_fee_usd": 2488.16,
+   "unique_traders": 1286,
+   "fills": 19145,
+   "closed_pnl_usd": 2428,
+   "partial": false
+  },
+  "20260416": {
+   "volume_usd": 10020275,
+   "builder_fee_usd": 3507.08,
+   "unique_traders": 1484,
+   "fills": 26228,
+   "closed_pnl_usd": 3549,
+   "partial": false
+  },
+  "20260417": {
+   "volume_usd": 10932073,
+   "builder_fee_usd": 3826.21,
+   "unique_traders": 1885,
+   "fills": 29586,
+   "closed_pnl_usd": 22080,
+   "partial": false
+  },
+  "20260418": {
+   "volume_usd": 8325272,
+   "builder_fee_usd": 2913.84,
+   "unique_traders": 1687,
+   "fills": 19579,
+   "closed_pnl_usd": 15583,
+   "partial": false
+  },
+  "20260419": {
+   "volume_usd": 17896199,
+   "builder_fee_usd": 6263.66,
+   "unique_traders": 1869,
+   "fills": 27971,
+   "closed_pnl_usd": 18979,
+   "partial": false
+  },
+  "20260420": {
+   "volume_usd": 17183410,
+   "builder_fee_usd": 6014.18,
+   "unique_traders": 2034,
+   "fills": 26765,
+   "closed_pnl_usd": 10823,
+   "partial": false
+  },
+  "20260421": {
+   "volume_usd": 15152580,
+   "builder_fee_usd": 5303.38,
+   "unique_traders": 2359,
+   "fills": 37006,
+   "closed_pnl_usd": 15995,
+   "partial": false
+  },
+  "20260422": {
+   "volume_usd": 14583753,
+   "builder_fee_usd": 5104.3,
+   "unique_traders": 2528,
+   "fills": 34594,
+   "closed_pnl_usd": 12510,
+   "partial": false
+  },
+  "20260423": {
+   "volume_usd": 16329957,
+   "builder_fee_usd": 5715.46,
+   "unique_traders": 2602,
+   "fills": 42320,
+   "closed_pnl_usd": 14060,
+   "partial": false
+  },
+  "20260424": {
+   "volume_usd": 16072025,
+   "builder_fee_usd": 5625.19,
+   "unique_traders": 2449,
+   "fills": 41964,
+   "closed_pnl_usd": 15535,
+   "partial": false
+  },
+  "20260425": {
+   "volume_usd": 5968294,
+   "builder_fee_usd": 2088.89,
+   "unique_traders": 1867,
+   "fills": 18249,
+   "closed_pnl_usd": 1807,
+   "partial": false
+  },
+  "20260426": {
+   "volume_usd": 7742680,
+   "builder_fee_usd": 2709.93,
+   "unique_traders": 2310,
+   "fills": 25742,
+   "closed_pnl_usd": 9751,
+   "partial": false
+  },
+  "20260427": {
+   "volume_usd": 15300681,
+   "builder_fee_usd": 5355.22,
+   "unique_traders": 2773,
+   "fills": 33720,
+   "closed_pnl_usd": 8950,
+   "partial": false
+  },
+  "20260428": {
+   "volume_usd": 9983875,
+   "builder_fee_usd": 3494.34,
+   "unique_traders": 2631,
+   "fills": 31072,
+   "closed_pnl_usd": 5484,
+   "partial": false
+  },
+  "20260429": {
+   "volume_usd": 13490160,
+   "builder_fee_usd": 4721.54,
+   "unique_traders": 2741,
+   "fills": 36673,
+   "closed_pnl_usd": 12407,
+   "partial": false
+  },
+  "20260430": {
+   "volume_usd": 9086050,
+   "builder_fee_usd": 3180.11,
+   "unique_traders": 2303,
+   "fills": 23997,
+   "closed_pnl_usd": 10292,
+   "partial": false
+  },
+  "20260501": {
+   "volume_usd": 9053645,
+   "builder_fee_usd": 3168.76,
+   "unique_traders": 2415,
+   "fills": 25374,
+   "closed_pnl_usd": 9007,
+   "partial": false
+  },
+  "20260502": {
+   "volume_usd": 5457968,
+   "builder_fee_usd": 1910.28,
+   "unique_traders": 2134,
+   "fills": 19477,
+   "closed_pnl_usd": 1163,
+   "partial": false
+  },
+  "20260503": {
+   "volume_usd": 8159659,
+   "builder_fee_usd": 2855.87,
+   "unique_traders": 1927,
+   "fills": 20244,
+   "closed_pnl_usd": 5913,
+   "partial": false
+  },
+  "20260504": {
+   "volume_usd": 22739916,
+   "builder_fee_usd": 7958.95,
+   "unique_traders": 2344,
+   "fills": 32621,
+   "closed_pnl_usd": 25516,
+   "partial": false
+  },
+  "20260505": {
+   "volume_usd": 14519806,
+   "builder_fee_usd": 5081.92,
+   "unique_traders": 2182,
+   "fills": 24516,
+   "closed_pnl_usd": 9154,
+   "partial": false
+  },
+  "20260506": {
+   "volume_usd": 14933672,
+   "builder_fee_usd": 5226.77,
+   "unique_traders": 1859,
+   "fills": 22119,
+   "closed_pnl_usd": 12151,
+   "partial": false
+  },
+  "20260507": {
+   "volume_usd": 7477875,
+   "builder_fee_usd": 2617.24,
+   "unique_traders": 2005,
+   "fills": 22919,
+   "closed_pnl_usd": 4116,
+   "partial": false
+  },
+  "20260508": {
+   "volume_usd": 7141137,
+   "builder_fee_usd": 2499.39,
+   "unique_traders": 1720,
+   "fills": 18249,
+   "closed_pnl_usd": 3594,
+   "partial": false
+  },
+  "20260509": {
+   "volume_usd": 3692192,
+   "builder_fee_usd": 1292.26,
+   "unique_traders": 1322,
+   "fills": 9997,
+   "closed_pnl_usd": 4654,
+   "partial": false
+  },
+  "20260510": {
+   "volume_usd": 6408188,
+   "builder_fee_usd": 2242.86,
+   "unique_traders": 1517,
+   "fills": 15044,
+   "closed_pnl_usd": 5071,
+   "partial": false
+  },
+  "20260511": {
+   "volume_usd": 8597348,
+   "builder_fee_usd": 3009.07,
+   "unique_traders": 1387,
+   "fills": 13758,
+   "closed_pnl_usd": 10807,
+   "partial": false
+  },
+  "20260512": {
+   "volume_usd": 8444172,
+   "builder_fee_usd": 2955.45,
+   "unique_traders": 1715,
+   "fills": 15760,
+   "closed_pnl_usd": 6100,
+   "partial": false
+  },
+  "20260513": {
+   "volume_usd": 11884465,
+   "builder_fee_usd": 4159.55,
+   "unique_traders": 1717,
+   "fills": 17321,
+   "closed_pnl_usd": 7259,
+   "partial": false
+  },
+  "20260514": {
+   "volume_usd": 13571318,
+   "builder_fee_usd": 4749.95,
+   "unique_traders": 1634,
+   "fills": 16014,
+   "closed_pnl_usd": 16863,
+   "partial": false
+  },
+  "20260515": {
+   "volume_usd": 9753303,
+   "builder_fee_usd": 3413.65,
+   "unique_traders": 1638,
+   "fills": 13488,
+   "closed_pnl_usd": 8662,
+   "partial": false
+  },
+  "20260516": {
+   "volume_usd": 5217538,
+   "builder_fee_usd": 1826.13,
+   "unique_traders": 1414,
+   "fills": 7472,
+   "closed_pnl_usd": -1766,
+   "partial": false
+  },
+  "20260517": {
+   "volume_usd": 6637734,
+   "builder_fee_usd": 2323.2,
+   "unique_traders": 1311,
+   "fills": 8066,
+   "closed_pnl_usd": 1853,
+   "partial": false
+  },
+  "20260518": {
+   "volume_usd": 6468108,
+   "builder_fee_usd": 2263.83,
+   "unique_traders": 1478,
+   "fills": 10375,
+   "closed_pnl_usd": 1149,
+   "partial": false
+  },
+  "20260519": {
+   "volume_usd": 6586200,
+   "builder_fee_usd": 2305.16,
+   "unique_traders": 1435,
+   "fills": 10742,
+   "closed_pnl_usd": 3674,
+   "partial": false
+  },
+  "20260520": {
+   "volume_usd": 9104793,
+   "builder_fee_usd": 3186.67,
+   "unique_traders": 1693,
+   "fills": 16551,
+   "closed_pnl_usd": -1496,
+   "partial": false
+  },
+  "20260521": {
+   "volume_usd": 9251763,
+   "builder_fee_usd": 3238.11,
+   "unique_traders": 1682,
+   "fills": 15658,
+   "closed_pnl_usd": 6570,
+   "partial": false
+  },
+  "20260522": {
+   "volume_usd": 5942618,
+   "builder_fee_usd": 2079.91,
+   "unique_traders": 1707,
+   "fills": 13258,
+   "closed_pnl_usd": -1941,
+   "partial": false
+  },
+  "20260523": {
+   "volume_usd": 4783348,
+   "builder_fee_usd": 1674.16,
+   "unique_traders": 1811,
+   "fills": 14801,
+   "closed_pnl_usd": 3369,
+   "partial": false
+  },
+  "20260524": {
+   "volume_usd": 4391627,
+   "builder_fee_usd": 1537.06,
+   "unique_traders": 1656,
+   "fills": 14734,
+   "closed_pnl_usd": 3203,
+   "partial": false
+  },
+  "20260525": {
+   "volume_usd": 4998864,
+   "builder_fee_usd": 1749.59,
+   "unique_traders": 1872,
+   "fills": 17921,
+   "closed_pnl_usd": 3896,
+   "partial": false
+  },
+  "20260526": {
+   "volume_usd": 6107510,
+   "builder_fee_usd": 2137.62,
+   "unique_traders": 2153,
+   "fills": 21180,
+   "closed_pnl_usd": 5416,
+   "partial": false
+  },
+  "20260527": {
+   "volume_usd": 6011986,
+   "builder_fee_usd": 2104.19,
+   "unique_traders": 1994,
+   "fills": 16709,
+   "closed_pnl_usd": 2349,
+   "partial": false
+  },
+  "20260528": {
+   "volume_usd": 7616567,
+   "builder_fee_usd": 2665.79,
+   "unique_traders": 2223,
+   "fills": 22123,
+   "closed_pnl_usd": 5113,
+   "partial": false
+  },
+  "20260529": {
+   "volume_usd": 8068360,
+   "builder_fee_usd": 2823.92,
+   "unique_traders": 1857,
+   "fills": 20061,
+   "closed_pnl_usd": 5673,
+   "partial": false
+  },
+  "20260530": {
+   "volume_usd": 2945411,
+   "builder_fee_usd": 1030.89,
+   "unique_traders": 1447,
+   "fills": 10223,
+   "closed_pnl_usd": 1710,
+   "partial": true
+  },
+  "20260531": {
+   "volume_usd": 4726462,
+   "builder_fee_usd": 1654.25,
+   "unique_traders": 2568,
+   "fills": 25620,
+   "closed_pnl_usd": 2193,
+   "partial": false
+  },
+  "20260601": {
+   "volume_usd": 8427527,
+   "builder_fee_usd": 2949.62,
+   "unique_traders": 2852,
+   "fills": 32939,
+   "closed_pnl_usd": 6834,
+   "partial": false
+  },
+  "20260602": {
+   "volume_usd": 13017465,
+   "builder_fee_usd": 4556.09,
+   "unique_traders": 3254,
+   "fills": 45743,
+   "closed_pnl_usd": 12996,
+   "partial": false
+  },
+  "20260603": {
+   "volume_usd": 15277747,
+   "builder_fee_usd": 5347.19,
+   "unique_traders": 2843,
+   "fills": 39755,
+   "closed_pnl_usd": 15074,
+   "partial": false
+  },
+  "20260604": {
+   "volume_usd": 16514518,
+   "builder_fee_usd": 5780.06,
+   "unique_traders": 2672,
+   "fills": 38404,
+   "closed_pnl_usd": 27918,
+   "partial": false
+  },
+  "20260605": {
+   "volume_usd": 21027201,
+   "builder_fee_usd": 7359.5,
+   "unique_traders": 2901,
+   "fills": 50157,
+   "closed_pnl_usd": 29623,
+   "partial": false
+  },
+  "20260606": {
+   "volume_usd": 9838187,
+   "builder_fee_usd": 3443.35,
+   "unique_traders": 2250,
+   "fills": 30963,
+   "closed_pnl_usd": 10622,
+   "partial": false
+  },
+  "20260607": {
+   "volume_usd": 8309365,
+   "builder_fee_usd": 2908.26,
+   "unique_traders": 2580,
+   "fills": 33291,
+   "closed_pnl_usd": 15274,
+   "partial": false
+  },
+  "20260608": {
+   "volume_usd": 11718314,
+   "builder_fee_usd": 4101.39,
+   "unique_traders": 2723,
+   "fills": 37377,
+   "closed_pnl_usd": 20371,
+   "partial": false
+  },
+  "20260609": {
+   "volume_usd": 11141580,
+   "builder_fee_usd": 3899.53,
+   "unique_traders": 2764,
+   "fills": 37481,
+   "closed_pnl_usd": 15803,
+   "partial": false
+  },
+  "20260610": {
+   "volume_usd": 11112298,
+   "builder_fee_usd": 3889.29,
+   "unique_traders": 2720,
+   "fills": 34645,
+   "closed_pnl_usd": 12126,
+   "partial": false
+  },
+  "20260611": {
+   "volume_usd": 11729515,
+   "builder_fee_usd": 4105.32,
+   "unique_traders": 2530,
+   "fills": 29107,
+   "closed_pnl_usd": 14328,
+   "partial": false
+  },
+  "20260612": {
+   "volume_usd": 9739335,
+   "builder_fee_usd": 3408.75,
+   "unique_traders": 2815,
+   "fills": 33650,
+   "closed_pnl_usd": 16789,
+   "partial": false
+  },
+  "20260613": {
+   "volume_usd": 8850709,
+   "builder_fee_usd": 3097.73,
+   "unique_traders": 2849,
+   "fills": 29900,
+   "closed_pnl_usd": 7853,
+   "partial": false
+  },
+  "20260614": {
+   "volume_usd": 9891770,
+   "builder_fee_usd": 3462.1,
+   "unique_traders": 3505,
+   "fills": 41688,
+   "closed_pnl_usd": 10043,
+   "partial": false
+  },
+  "20260615": {
+   "volume_usd": 14248112,
+   "builder_fee_usd": 4986.81,
+   "unique_traders": 4457,
+   "fills": 58031,
+   "closed_pnl_usd": 19625,
+   "partial": false
+  },
+  "20260616": {
+   "volume_usd": 17330100,
+   "builder_fee_usd": 6065.51,
+   "unique_traders": 4028,
+   "fills": 56399,
+   "closed_pnl_usd": 20664,
+   "partial": false
+  },
+  "20260617": {
+   "volume_usd": 26400281,
+   "builder_fee_usd": 9240.06,
+   "unique_traders": 4383,
+   "fills": 70321,
+   "closed_pnl_usd": 42480,
+   "partial": false
+  },
+  "20260618": {
+   "volume_usd": 21614834,
+   "builder_fee_usd": 7565.16,
+   "unique_traders": 4257,
+   "fills": 55929,
+   "closed_pnl_usd": 16366,
+   "partial": false
+  },
+  "20260619": {
+   "volume_usd": 13630357,
+   "builder_fee_usd": 4770.6,
+   "unique_traders": 4152,
+   "fills": 45154,
+   "closed_pnl_usd": 13026,
+   "partial": false
+  },
+  "20260620": {
+   "volume_usd": 14554416,
+   "builder_fee_usd": 5094.02,
+   "unique_traders": 4200,
+   "fills": 51781,
+   "closed_pnl_usd": 16207,
+   "partial": false
+  },
+  "20260621": {
+   "volume_usd": 14836120,
+   "builder_fee_usd": 5192.61,
+   "unique_traders": 4635,
+   "fills": 56218,
+   "closed_pnl_usd": 18936,
+   "partial": false
+  },
+  "20260622": {
+   "volume_usd": 27439832,
+   "builder_fee_usd": 9603.9,
+   "unique_traders": 5681,
+   "fills": 86284,
+   "closed_pnl_usd": 38390,
+   "partial": false
+  },
+  "20260623": {
+   "volume_usd": 23904225,
+   "builder_fee_usd": 8366.44,
+   "unique_traders": 6100,
+   "fills": 76831,
+   "closed_pnl_usd": 8965,
+   "partial": false
+  },
+  "20260624": {
+   "volume_usd": 38034332,
+   "builder_fee_usd": 13311.97,
+   "unique_traders": 6037,
+   "fills": 84256,
+   "closed_pnl_usd": 9582,
+   "partial": false
+  },
+  "20260625": {
+   "volume_usd": 39350450,
+   "builder_fee_usd": 13772.61,
+   "unique_traders": 5788,
+   "fills": 88828,
+   "closed_pnl_usd": 46541,
+   "partial": false
+  },
+  "20260626": {
+   "volume_usd": 45767920,
+   "builder_fee_usd": 16018.73,
+   "unique_traders": 5703,
+   "fills": 93458,
+   "closed_pnl_usd": 50590,
+   "partial": false
+  },
+  "20260627": {
+   "volume_usd": 20854403,
+   "builder_fee_usd": 7299.01,
+   "unique_traders": 5193,
+   "fills": 61114,
+   "closed_pnl_usd": 14825,
+   "partial": false
+  },
+  "20260628": {
+   "volume_usd": 23884629,
+   "builder_fee_usd": 8359.59,
+   "unique_traders": 5761,
+   "fills": 69652,
+   "closed_pnl_usd": 30586,
+   "partial": false
+  },
+  "20260629": {
+   "volume_usd": 68700278,
+   "builder_fee_usd": 24045.03,
+   "unique_traders": 7300,
+   "fills": 138726,
+   "closed_pnl_usd": 94925,
+   "partial": false
+  },
+  "20260630": {
+   "volume_usd": 58790191,
+   "builder_fee_usd": 20576.51,
+   "unique_traders": 7728,
+   "fills": 112956,
+   "closed_pnl_usd": 61493,
+   "partial": false
+  },
+  "20260701": {
+   "volume_usd": 66224421,
+   "builder_fee_usd": 23178.48,
+   "unique_traders": 8172,
+   "fills": 132347,
+   "closed_pnl_usd": 61571,
+   "partial": false
+  },
+  "20260702": {
+   "volume_usd": 57375986,
+   "builder_fee_usd": 20081.53,
+   "unique_traders": 8546,
+   "fills": 130429,
+   "closed_pnl_usd": 97978,
+   "partial": false
+  },
+  "20260703": {
+   "volume_usd": 34817832,
+   "builder_fee_usd": 12186.19,
+   "unique_traders": 8126,
+   "fills": 100423,
+   "closed_pnl_usd": 20990,
+   "partial": false
+  },
+  "20260704": {
+   "volume_usd": 24770603,
+   "builder_fee_usd": 8669.68,
+   "unique_traders": 7265,
+   "fills": 68711,
+   "closed_pnl_usd": 13220,
+   "partial": false
+  },
+  "20260705": {
+   "volume_usd": 25336039,
+   "builder_fee_usd": 8867.58,
+   "unique_traders": 7236,
+   "fills": 69917,
+   "closed_pnl_usd": 25013,
+   "partial": false
+  },
+  "20260706": {
+   "volume_usd": 54024084,
+   "builder_fee_usd": 18908.37,
+   "unique_traders": 8854,
+   "fills": 117895,
+   "closed_pnl_usd": 58038,
+   "partial": false
+  },
+  "20260707": {
+   "volume_usd": 52795517,
+   "builder_fee_usd": 18478.37,
+   "unique_traders": 8526,
+   "fills": 114095,
+   "closed_pnl_usd": 102772,
+   "partial": false
+  },
+  "20260709": {
+   "volume_usd": 46242218,
+   "builder_fee_usd": 16184.72,
+   "unique_traders": 8179,
+   "fills": 106495,
+   "closed_pnl_usd": 44349,
+   "partial": false
+  },
+  "20260710": {
+   "volume_usd": 41763093,
+   "builder_fee_usd": 14617.04,
+   "unique_traders": 8050,
+   "fills": 95637,
+   "closed_pnl_usd": 32384,
+   "partial": false
+  },
+  "20260711": {
+   "volume_usd": 17695396,
+   "builder_fee_usd": 6193.37,
+   "unique_traders": 6141,
+   "fills": 45651,
+   "closed_pnl_usd": 25705,
+   "partial": false
+  },
+  "20260712": {
+   "volume_usd": 37561324,
+   "builder_fee_usd": 13146.42,
+   "unique_traders": 7868,
+   "fills": 88056,
+   "closed_pnl_usd": 44302,
+   "partial": false
+  },
+  "20260713": {
+   "volume_usd": 60521937,
+   "builder_fee_usd": 21182.63,
+   "unique_traders": 9129,
+   "fills": 106808,
+   "closed_pnl_usd": 49024,
+   "partial": false
+  },
+  "20260714": {
+   "volume_usd": 14893941,
+   "builder_fee_usd": 5212.86,
+   "unique_traders": 5813,
+   "fills": 36528,
+   "closed_pnl_usd": 19926,
+   "partial": true
+  },
+  "20260715": {
+   "volume_usd": 49739050,
+   "builder_fee_usd": 17408.6,
+   "unique_traders": 10184,
+   "fills": 140893,
+   "closed_pnl_usd": 39557,
+   "partial": false
+  },
+  "20260716": {
+   "volume_usd": 44064311,
+   "builder_fee_usd": 15422.44,
+   "unique_traders": 9923,
+   "fills": 129638,
+   "closed_pnl_usd": 38099,
+   "partial": false
+  },
+  "20260717": {
+   "volume_usd": 41763937,
+   "builder_fee_usd": 14617.31,
+   "unique_traders": 9752,
+   "fills": 145467,
+   "closed_pnl_usd": 47371,
+   "partial": false
+  },
+  "20260718": {
+   "volume_usd": 19484632,
+   "builder_fee_usd": 6819.58,
+   "unique_traders": 8267,
+   "fills": 80522,
+   "closed_pnl_usd": 30823,
+   "partial": false
+  },
+  "20260719": {
+   "volume_usd": 27289973,
+   "builder_fee_usd": 9551.43,
+   "unique_traders": 9055,
+   "fills": 113511,
+   "closed_pnl_usd": 10980,
+   "partial": false
+  },
+  "20260720": {
+   "volume_usd": 49374202,
+   "builder_fee_usd": 17280.9,
+   "unique_traders": 10131,
+   "fills": 134203,
+   "closed_pnl_usd": 65533,
+   "partial": false
+  },
+  "20260721": {
+   "volume_usd": 37311838,
+   "builder_fee_usd": 13059.09,
+   "unique_traders": 9791,
+   "fills": 101153,
+   "closed_pnl_usd": 23861,
+   "partial": false
+  },
+  "20260722": {
+   "volume_usd": 50562183,
+   "builder_fee_usd": 17696.71,
+   "unique_traders": 9955,
+   "fills": 117230,
+   "closed_pnl_usd": 41984,
+   "partial": false
+  },
+  "20260723": {
+   "volume_usd": 40208563,
+   "builder_fee_usd": 14072.95,
+   "unique_traders": 9709,
+   "fills": 94343,
+   "closed_pnl_usd": 41412,
+   "partial": false
+  },
+  "20260724": {
+   "volume_usd": 44766307,
+   "builder_fee_usd": 15668.16,
+   "unique_traders": 10626,
+   "fills": 94396,
+   "closed_pnl_usd": 32713,
+   "partial": false
+  },
+  "20260725": {
+   "volume_usd": 24653071,
+   "builder_fee_usd": 8628.54,
+   "unique_traders": 8118,
+   "fills": 65930,
+   "closed_pnl_usd": 22142,
+   "partial": false
+  },
+  "20260726": {
+   "volume_usd": 36240184,
+   "builder_fee_usd": 12684.01,
+   "unique_traders": 10087,
+   "fills": 101921,
+   "closed_pnl_usd": 72727,
+   "partial": false
+  },
+  "20260727": {
+   "volume_usd": 74333105,
+   "builder_fee_usd": 26016.52,
+   "unique_traders": 11198,
+   "fills": 141347,
+   "closed_pnl_usd": 75974,
+   "partial": false
+  },
+  "20260728": {
+   "volume_usd": 49792886,
+   "builder_fee_usd": 17427.46,
+   "unique_traders": 9521,
+   "fills": 109341,
+   "closed_pnl_usd": 51414,
+   "partial": false
+  },
+  "20260729": {
+   "volume_usd": 77852836,
+   "builder_fee_usd": 27248.42,
+   "unique_traders": 10395,
+   "fills": 142430,
+   "closed_pnl_usd": 93503,
+   "partial": false
+  },
+  "20260730": {
+   "volume_usd": 56385390,
+   "builder_fee_usd": 19734.83,
+   "unique_traders": 10141,
+   "fills": 115758,
+   "closed_pnl_usd": 66786,
+   "partial": false
+  },
+  "20260731": {
+   "volume_usd": 61509582,
+   "builder_fee_usd": 21528.3,
+   "unique_traders": 10912,
+   "fills": 107835,
+   "closed_pnl_usd": 33586,
+   "partial": false
+  },
+  "20260801": {
+   "volume_usd": 27297878,
+   "builder_fee_usd": 9554.22,
+   "unique_traders": 8597,
+   "fills": 70461,
+   "closed_pnl_usd": 643,
+   "partial": false
+  },
+  "20260802": {
+   "volume_usd": 33442399,
+   "builder_fee_usd": 11704.79,
+   "unique_traders": 9971,
+   "fills": 96186,
+   "closed_pnl_usd": 59070,
+   "partial": false
+  },
+  "20260803": {
+   "volume_usd": 60647460,
+   "builder_fee_usd": 21226.54,
+   "unique_traders": 11217,
+   "fills": 136278,
+   "closed_pnl_usd": 87323,
+   "partial": false
+  },
+  "20260804": {
+   "volume_usd": 64314960,
+   "builder_fee_usd": 22510.17,
+   "unique_traders": 10684,
+   "fills": 130472,
+   "closed_pnl_usd": 55785,
+   "partial": false
+  },
+  "20260805": {
+   "volume_usd": 63921209,
+   "builder_fee_usd": 22372.35,
+   "unique_traders": 11385,
+   "fills": 142377,
+   "closed_pnl_usd": 64548,
+   "partial": false
+  },
+  "20260806": {
+   "volume_usd": 51818803,
+   "builder_fee_usd": 18136.52,
+   "unique_traders": 10311,
+   "fills": 117402,
+   "closed_pnl_usd": 58488,
+   "partial": false
+  },
+  "20260807": {
+   "volume_usd": 62896255,
+   "builder_fee_usd": 22013.63,
+   "unique_traders": 10297,
+   "fills": 116791,
+   "closed_pnl_usd": 61071,
+   "partial": false
+  },
+  "20260808": {
+   "volume_usd": 17195396,
+   "builder_fee_usd": 6018.36,
+   "unique_traders": 7538,
+   "fills": 49901,
+   "closed_pnl_usd": 20473,
+   "partial": true
+  },
+  "20260809": {
+   "volume_usd": 23870584,
+   "builder_fee_usd": 8354.67,
+   "unique_traders": 8380,
+   "fills": 63466,
+   "closed_pnl_usd": 22380,
+   "partial": true
+  },
+  "20260810": {
+   "volume_usd": 59028203,
+   "builder_fee_usd": 20659.82,
+   "unique_traders": 10713,
+   "fills": 105238,
+   "closed_pnl_usd": 57388,
+   "partial": false
+  },
+  "20260811": {
+   "volume_usd": 50623553,
+   "builder_fee_usd": 17718.2,
+   "unique_traders": 10357,
+   "fills": 90633,
+   "closed_pnl_usd": 45207,
+   "partial": false
+  },
+  "20260812": {
+   "volume_usd": 50059966,
+   "builder_fee_usd": 17520.94,
+   "unique_traders": 10475,
+   "fills": 105910,
+   "closed_pnl_usd": 54793,
+   "partial": false
+  },
+  "20260813": {
+   "volume_usd": 68173070,
+   "builder_fee_usd": 23860.52,
+   "unique_traders": 10076,
+   "fills": 110728,
+   "closed_pnl_usd": 79101,
+   "partial": false
+  },
+  "20260814": {
+   "volume_usd": 54884454,
+   "builder_fee_usd": 19209.51,
+   "unique_traders": 10077,
+   "fills": 96219,
+   "closed_pnl_usd": 54514,
+   "partial": false
+  },
+  "20260815": {
+   "volume_usd": 27900810,
+   "builder_fee_usd": 9765.24,
+   "unique_traders": 8883,
+   "fills": 79356,
+   "closed_pnl_usd": 32247,
+   "partial": false
+  },
+  "20260816": {
+   "volume_usd": 29332353,
+   "builder_fee_usd": 10266.28,
+   "unique_traders": 8798,
+   "fills": 87787,
+   "closed_pnl_usd": 17029,
+   "partial": false
+  },
+  "20260817": {
+   "volume_usd": 68943863,
+   "builder_fee_usd": 24130.28,
+   "unique_traders": 11604,
+   "fills": 137182,
+   "closed_pnl_usd": 59907,
+   "partial": false
+  },
+  "20260818": {
+   "volume_usd": 56963220,
+   "builder_fee_usd": 19937.08,
+   "unique_traders": 10595,
+   "fills": 115633,
+   "closed_pnl_usd": 43317,
+   "partial": false
+  },
+  "20260819": {
+   "volume_usd": 108724196,
+   "builder_fee_usd": 38053.38,
+   "unique_traders": 12499,
+   "fills": 177480,
+   "closed_pnl_usd": 55784,
+   "partial": false
+  },
+  "20260820": {
+   "volume_usd": 84286477,
+   "builder_fee_usd": 29500.22,
+   "unique_traders": 10196,
+   "fills": 133179,
+   "closed_pnl_usd": 105839,
+   "partial": false
+  },
+  "20260821": {
+   "volume_usd": 139375833,
+   "builder_fee_usd": 48781.46,
+   "unique_traders": 9964,
+   "fills": 158180,
+   "closed_pnl_usd": 260857,
+   "partial": false
+  },
+  "20260822": {
+   "volume_usd": 76916673,
+   "builder_fee_usd": 26920.77,
+   "unique_traders": 8796,
+   "fills": 135328,
+   "closed_pnl_usd": 140085,
+   "partial": false
+  },
+  "20260823": {
+   "volume_usd": 57088520,
+   "builder_fee_usd": 19980.85,
+   "unique_traders": 8579,
+   "fills": 120249,
+   "closed_pnl_usd": 69811,
+   "partial": false
+  },
+  "20260824": {
+   "volume_usd": 106171367,
+   "builder_fee_usd": 37158.78,
+   "unique_traders": 9266,
+   "fills": 138186,
+   "closed_pnl_usd": 110525,
+   "partial": false
+  },
+  "20260825": {
+   "volume_usd": 92360156,
+   "builder_fee_usd": 32324.23,
+   "unique_traders": 8908,
+   "fills": 118564,
+   "closed_pnl_usd": 84030,
+   "partial": false
+  },
+  "20260826": {
+   "volume_usd": 54814190,
+   "builder_fee_usd": 19181.77,
+   "unique_traders": 7808,
+   "fills": 95187,
+   "closed_pnl_usd": 47829,
+   "partial": false
+  },
+  "20260827": {
+   "volume_usd": 22669276,
+   "builder_fee_usd": 7933.16,
+   "unique_traders": 5404,
+   "fills": 41354,
+   "closed_pnl_usd": 20233,
+   "partial": true
+  },
+  "20260828": {
+   "volume_usd": 60055816,
+   "builder_fee_usd": 21019.05,
+   "unique_traders": 8098,
+   "fills": 98808,
+   "closed_pnl_usd": 50716,
+   "partial": false
+  },
+  "20260829": {
+   "volume_usd": 22549322,
+   "builder_fee_usd": 7892.18,
+   "unique_traders": 6126,
+   "fills": 49346,
+   "closed_pnl_usd": 28902,
+   "partial": false
+  },
+  "20260830": {
+   "volume_usd": 9135219,
+   "builder_fee_usd": 3197.26,
+   "unique_traders": 4110,
+   "fills": 24678,
+   "closed_pnl_usd": 6508,
+   "partial": true
+  },
+  "20260831": {
+   "volume_usd": 52570977,
+   "builder_fee_usd": 18399.52,
+   "unique_traders": 7198,
+   "fills": 80539,
+   "closed_pnl_usd": 54609,
+   "partial": false
+  },
+  "20260901": {
+   "volume_usd": 53487586,
+   "builder_fee_usd": 18719.67,
+   "unique_traders": 7727,
+   "fills": 81368,
+   "closed_pnl_usd": 14473,
+   "partial": false
+  },
+  "20260902": {
+   "volume_usd": 11594277,
+   "builder_fee_usd": 4057.63,
+   "unique_traders": 4480,
+   "fills": 27237,
+   "closed_pnl_usd": 6355,
+   "partial": true
+  },
+  "20260903": {
+   "volume_usd": 64997699,
+   "builder_fee_usd": 22748.59,
+   "unique_traders": 7737,
+   "fills": 92957,
+   "closed_pnl_usd": 43305,
+   "partial": false
+  },
+  "20260904": {
+   "volume_usd": 33146440,
+   "builder_fee_usd": 11600.33,
+   "unique_traders": 7542,
+   "fills": 70330,
+   "closed_pnl_usd": 46634,
+   "partial": false
+  },
+  "20260905": {
+   "volume_usd": 16624287,
+   "builder_fee_usd": 5818.43,
+   "unique_traders": 6113,
+   "fills": 57755,
+   "closed_pnl_usd": 19056,
+   "partial": false
+  },
+  "20260906": {
+   "volume_usd": 21076732,
+   "builder_fee_usd": 7376.43,
+   "unique_traders": 6025,
+   "fills": 55987,
+   "closed_pnl_usd": 58431,
+   "partial": false
+  },
+  "20260907": {
+   "volume_usd": 26362508,
+   "builder_fee_usd": 9226.53,
+   "unique_traders": 6933,
+   "fills": 70922,
+   "closed_pnl_usd": 30087,
+   "partial": false
+  },
+  "20260908": {
+   "volume_usd": 11700232,
+   "builder_fee_usd": 4095.02,
+   "unique_traders": 4738,
+   "fills": 27520,
+   "closed_pnl_usd": 11911,
+   "partial": true
+  },
+  "20260909": {
+   "volume_usd": 30862839,
+   "builder_fee_usd": 10801.93,
+   "unique_traders": 7214,
+   "fills": 69596,
+   "closed_pnl_usd": 35209,
+   "partial": false
+  },
+  "20260910": {
+   "volume_usd": 21591550,
+   "builder_fee_usd": 7556.81,
+   "unique_traders": 6144,
+   "fills": 54748,
+   "closed_pnl_usd": -13469,
+   "partial": false
+  },
+  "20260911": {
+   "volume_usd": 31583296,
+   "builder_fee_usd": 11054.01,
+   "unique_traders": 6248,
+   "fills": 67284,
+   "closed_pnl_usd": 38789,
+   "partial": false
+  },
+  "20260912": {
+   "volume_usd": 8894082,
+   "builder_fee_usd": 3112.87,
+   "unique_traders": 4568,
+   "fills": 37156,
+   "closed_pnl_usd": 6098,
+   "partial": false
+  },
+  "20260913": {
+   "volume_usd": 13785213,
+   "builder_fee_usd": 4824.75,
+   "unique_traders": 4958,
+   "fills": 50257,
+   "closed_pnl_usd": 11198,
+   "partial": false
+  },
+  "20260914": {
+   "volume_usd": 31348264,
+   "builder_fee_usd": 10971.79,
+   "unique_traders": 6454,
+   "fills": 72119,
+   "closed_pnl_usd": 42510,
+   "partial": false
+  },
+  "20260915": {
+   "volume_usd": 11031807,
+   "builder_fee_usd": 3861.12,
+   "unique_traders": 4552,
+   "fills": 29208,
+   "closed_pnl_usd": 13527,
+   "partial": true
+  },
+  "20260916": {
+   "volume_usd": 7969842,
+   "builder_fee_usd": 2789.43,
+   "unique_traders": 3614,
+   "fills": 25403,
+   "closed_pnl_usd": 8008,
+   "partial": true
+  },
+  "20260917": {
+   "volume_usd": 30719470,
+   "builder_fee_usd": 10751.71,
+   "unique_traders": 6544,
+   "fills": 79525,
+   "closed_pnl_usd": 36286,
+   "partial": false
+  },
+  "20260918": {
+   "volume_usd": 15486432,
+   "builder_fee_usd": 5420.18,
+   "unique_traders": 4945,
+   "fills": 38524,
+   "closed_pnl_usd": 24439,
+   "partial": true
+  },
+  "20260919": {
+   "volume_usd": 23249805,
+   "builder_fee_usd": 8137.34,
+   "unique_traders": 5182,
+   "fills": 53258,
+   "closed_pnl_usd": 10423,
+   "partial": false
+  },
+  "20260920": {
+   "volume_usd": 21931303,
+   "builder_fee_usd": 7675.81,
+   "unique_traders": 5643,
+   "fills": 59861,
+   "closed_pnl_usd": 47157,
+   "partial": false
+  },
+  "20260921": {
+   "volume_usd": 47699966,
+   "builder_fee_usd": 16694.78,
+   "unique_traders": 6867,
+   "fills": 82451,
+   "closed_pnl_usd": 21533,
+   "partial": false
+  },
+  "20260922": {
+   "volume_usd": 15376826,
+   "builder_fee_usd": 5381.87,
+   "unique_traders": 4240,
+   "fills": 27878,
+   "closed_pnl_usd": 37923,
+   "partial": true
+  },
+  "20260923": {
+   "volume_usd": 11977410,
+   "builder_fee_usd": 4192.08,
+   "unique_traders": 4140,
+   "fills": 25385,
+   "closed_pnl_usd": 8891,
+   "partial": true
+  },
+  "20260924": {
+   "volume_usd": 13565343,
+   "builder_fee_usd": 4747.71,
+   "unique_traders": 3690,
+   "fills": 21778,
+   "closed_pnl_usd": 13829,
+   "partial": true
+  },
+  "20260925": {
+   "volume_usd": 12556130,
+   "builder_fee_usd": 4394.63,
+   "unique_traders": 3939,
+   "fills": 29194,
+   "closed_pnl_usd": 11462,
+   "partial": true
+  },
+  "20260926": {
+   "volume_usd": 6417715,
+   "builder_fee_usd": 2246.19,
+   "unique_traders": 3434,
+   "fills": 21672,
+   "closed_pnl_usd": 11065,
+   "partial": true
+  },
+  "20260927": {
+   "volume_usd": 6279420,
+   "builder_fee_usd": 2197.79,
+   "unique_traders": 3558,
+   "fills": 22772,
+   "closed_pnl_usd": 2872,
+   "partial": true
+  }
+ },
+ "coins_top25_volume_usd": {
+  "BTC": 3001378121,
+  "ETH": 485699356,
+  "SOL": 278483907,
+  "XRP": 179442611,
+  "ZEC": 113017345,
+  "WLD": 76969366,
+  "HYPE": 66876285,
+  "PUMP": 59458980,
+  "NEAR": 39307697,
+  "CASHCAT": 33871186,
+  "ARB": 25264512,
+  "ONDO": 25049687,
+  "AAVE": 19027719,
+  "JUP": 18901072,
+  "ADA": 18578561,
+  "SUI": 18153835,
+  "DOGE": 17582365,
+  "KAITO": 16643357,
+  "FARTCOIN": 16352104,
+  "UNI": 16221671,
+  "ENA": 15120463,
+  "PAXG": 15095315,
+  "XPL": 13081093,
+  "TRUMP": 12728216,
+  "LINK": 11797321
+ }
+}

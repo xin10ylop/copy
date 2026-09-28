@@ -1,0 +1,16 @@
+{
+ "random": {
+  "n": 300,
+  "pct_profitable": 15.3,
+  "median_pnl": -9.84,
+  "mean_pnl": -52.49,
+  "sum_pnl": -15748
+ },
+ "top": {
+  "n": 100,
+  "pct_profitable": 4.0,
+  "median_pnl": -6326.47,
+  "mean_pnl": -8419.28,
+  "sum_pnl": -841928
+ }
+}
