@@ -111,6 +111,64 @@ I screened all 46,723 accounts on Hyperliquid's leaderboard and fully validated 
 
 These aren't Invo users, so Invo's Mimic can't follow them.
 
+## Update: the whole Invo user base (not just the most-copied)
+
+On Invo you can mimic anyone, so the first screen was too narrow. This update checks **all 82,804 Invo traders** against their true Hyperliquid PnL (which includes liquidations, fees and funding):
+
+| Stage | Traders left |
+|---|---|
+| Still active, trading since before Aug 15, 100+ fills, profitable on Invo's own fills | 3,525 |
+| Top 1,200 of those, checked against true all-time PnL: profitable | **295** |
+| Also profitable over the last 30 days | 190 |
+| Also account ≥ $100, profit ≥ $100, not blown up | **79** |
+| Pass all 12 checks | **2** (5 more fail exactly one) |
+
+The 12 checks:
+- at least 60 days of history;
+- at least 20 trades in the last 50 days;
+- at most 1 liquidation in the last 50 days;
+- profit factor of 1.5 or more;
+- no single trade above 35% of profits;
+- doesn't average down (60% or fewer of its adds at worse prices);
+- median hold of at least 30 minutes;
+- copier replay positive at 3x and at 5x;
+- still positive when you enter 5 minutes late with 15 bps of extra slippage;
+- at least 70% of weeks positive;
+- win rate of 55% or more.
+
+Copier replays below use 2% of bankroll per trade over the last 50 days, a 90-second lag, +5 bps slippage and Invo's 7.7 bps fee.
+
+| # | Wallet | Months (net PnL on closed trades) | Win rate | Profit factor | Liquidations (50d) | Replay 3x | Late + slippage stress, 3x | Account | Verdict |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | `0x1d3d04a80ac88f89a4af5813111e6348f930138f` | Mar +$12, Apr -$21, Jul -$11, **Aug +$69, Sep +$153** | 82% | 3.7 | 1 | +8%, **8 of 8 weeks** | +7% | $290 | **Best overall.** Passes all 12. Improving; losses early in its history |
+| 2 | `0x3d4280cf17941ae660862e132dba00af4544ed71` | **Jul +$16, Aug +$64, Sep +$312** (every month) | 72% | 20.7 | 1 | +10%, 6 of 7 weeks | +9% | $658 | Strong, but only since Jul 22; one trade = 36% of profit; long-heavy alt basket right now |
+| 3 | `0x9b28a6759286715daae2e76174ffb76985132dae` | May -$8, Jun -$14, **Jul +$78, Aug +$90, Sep +$60** | 88% (Sep) | 2.7 | 1 (0 in Sep) | +2%, 6 of 7 weeks | +2% | $354 | Three straight positive months, but **averages down on 89% of adds**. Small size only |
+| 4 | `0xc65cb6e0341ddcdf181e96249fe6b5f3dae75199` | **Jul +$9, Aug +$224, Sep +$41** (every month) | 95% | 6.1 | 0 | +1%, 4 of 5 weeks | +1% | $334 | Cleanest style: BTC/ETH swing trades, never averages down. But only 32 trades ever, so too few to prove |
+| 5 | `0x82eed865e4525071f7a49ccdc308e05ed53f4e8e` | Apr -$86, Jun +$93, Jul -$105, Aug -$207, **Sep +$8,268** | 77–81% every month | 4.7 | 1 | +6%, 5 of 7 weeks | +5% | **$19.7K** | The only sizable account (+$11.2K all-time), but **all the profit is one month**. At 10x the replay is -3% with 9 liquidations. ≤3x only, and watch |
+| 6 | `0x4b9e45149876eee4d892167df03a4b0ed3c15cd6` | Jun +$1, Jul $0, **Aug +$91, Sep +$98** | 84% | 6.0 | 4 | +16%, 6 of 7 weeks | +15% | $315 | Good replay, but 3 liquidations in September |
+
+**Honest read:**
+- **Consistent win rates exist:** 75–95% every month for these six.
+- **Long, consistent profitability does not exist yet.**
+  - The best records are 2–3 positive months, on $290–$660 accounts.
+  - The one big account made everything in September.
+- Nobody on Invo has 6 or more months of steady, liquidation-free profit.
+
+**How to use this:**
+- Split your copy budget across **#1–#4**, sized at **1–2% of bankroll per mimic**, with leverage **capped at 3–5x** whatever the leader uses.
+- **Drop any trader** after 2 losing weeks, a liquidation, or if they start adding to losers.
+- Re-run `analysis/traders/validate_trader.py <wallet>` weekly.
+
+**Open positions to match profiles in the Invo app** (as of Sep 29):
+
+| # | Longs | Shorts |
+|---|---|---|
+| #1 | BTC @ 83,977.7 (7x), SOL @ 124.4 (5x), LTC @ 68.949 (4x), PENDLE @ 2.3732 (5x), ASTER @ 0.720216 (5x) | ARB @ 0.19002 (1x), SKY @ 0.081331 (2x) |
+| #2 | ATOM @ 1.2904, DOGE @ 0.091257, kPEPE @ 0.004197, TAO @ 313.16, HYPE @ 78.187, PENGU @ 0.009259, MORPHO @ 2.55923, CASHCAT @ 0.16974 | none |
+| #3 | none open. Recent: HYPE long @ 86.84 (Sep 29 00:41 UTC) | Recent: LINK short @ 15.34 (Sep 29 01:24 UTC) |
+| #4 | BTC @ 84,830 (7x). Earlier: BTC longs @ 83,880 (Sep 25) and @ 77,297 (Sep 18) | none |
+| #5 | ORDI @ 5.221 (3x). Recent: ZEC longs @ 1,366 and @ 1,376 (Sep 29) | Recent: LINK short @ 15.304 (Sep 29) |
+
 ## Check any trader yourself
 
 ```
