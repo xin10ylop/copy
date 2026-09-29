@@ -1,5 +1,7 @@
 # copy
 
+**Start here: [TRADERS_TO_COPY.md](TRADERS_TO_COPY.md)**. It covers which Invo traders people copy, whether copying them makes money once you enter late and pay fees, and a tool (`analysis/traders/validate_trader.py`) to check any wallet yourself.
+
 A deep review of **Invo** (https://www.invoapp.com), a social copy-trading app for crypto perpetual futures that runs on Hyperliquid, and a plan for where the money is.
 
 - **[INVO_DEEP_REVIEW.md](INVO_DEEP_REVIEW.md)**: the full report (verdict, on-chain numbers, weaknesses, ranked money plays, 90-day plan, risks).
